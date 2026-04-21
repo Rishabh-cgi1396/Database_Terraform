@@ -1,7 +1,7 @@
 # -----------------------------
 # RESOURCE GROUP
 # -----------------------------
-resource_group = "rg-demo-sql"
+resource_group = "rg-devops-demo"
 location       = "Central India"
 
 
