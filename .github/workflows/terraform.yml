@@ -1,6 +1,7 @@
 name: Terraform Database
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
